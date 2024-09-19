@@ -289,6 +289,14 @@ import {
       title: "Improve everyday",
       text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
       backgroundUrl: "./src/assets/benefits/card-6.svg",
+      iconUrl: '/src/assets/beneImages/blogIco.jpg',
+      imageUrl: benefitImage2,
+    },
+    {
+      id: "6",
+      title: "everyday",
+      text: "bleh bleh bleh",
+      backgroundUrl: "/src/assets/beneImages/blogIco.jpg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
     },
@@ -317,7 +325,7 @@ import {
       id: "3",
       title: "Telegram",
       iconUrl: telegram,
-      url: "#",
+      url: "https://www.X.com",
     },
     {
       id: "4",
@@ -325,4 +333,11 @@ import {
       iconUrl: facebook,
       url: "#",
     },
+    //new schema below:
+    {
+      id: "5",
+      title: "blog",
+      iconUrl: "/src/assets/images/blogIco.jpg",
+      url: "#",
+    }
   ];
